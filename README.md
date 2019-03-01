@@ -1,2 +1,2 @@
 # hello-world
-Create a branch, pull, commit, merge
+Create a branch, commit, pull, merge and celebrate!
